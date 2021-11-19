@@ -1,3 +1,23 @@
+# CarLeader - A Car selling website
+## This website featuring a lot of cars
+### Website made by using:
+    * Html
+    * Css
+    * Bootstrap
+    * JavaScript
+    * React
+## About Website
+* you can purchase car
+* user can login/logout
+* user can give review
+* user can manage there product
+* latest news 
+    
+
+### Website link [CarLeader](https://youthful-babbage-d34eb6.netlify.app/). 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
